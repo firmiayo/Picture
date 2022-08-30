@@ -1,2 +1,2 @@
 # Picture
-Githubtt图床
+Github图床
